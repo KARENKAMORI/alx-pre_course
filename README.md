@@ -1,1 +1,1 @@
-My first readme
+A quest to be better.
